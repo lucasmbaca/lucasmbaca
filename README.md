@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building a startup focused on the restaurant industry and addressing food insecurity.<br>Learning Vue.js for web development.<br>Seeking collaboration with like-minded individuals who share the vision.<br>Entrepreneur with a high tolerance for failure and a strong tech enthusiasm.
+Building a startup focused on the restaurant industry and addressing food insecurity.<br>Learning Vue.js for web development.<br>Seeking collaboration with like-minded individuals who share my vision.<br>Entrepreneur with a high tolerance for failure and a strong tech enthusiasm.
 
 
 ## 🌐 Socials:
